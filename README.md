@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**NnamdiNgwu/NnamdiNgwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 [![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)
 [![ProfileViews](https://komarev.com/ghpvc/?username=nnamdingwu&color=red&style=flat)](https://komarev.com/ghpvc/?username=nnamdingwu)
@@ -25,8 +10,10 @@ Here are some ideas to get you started:
 
 ### Technologies
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![HTML](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![CSS](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/)   
 
 [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/)
@@ -52,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--
-**derHahn/derHahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NnamdiNgwu/NnamdiNgwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
