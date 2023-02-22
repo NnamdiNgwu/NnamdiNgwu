@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 [![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)
