@@ -1,4 +1,4 @@
- I specialize in taking AI from prototype to production: multi-agent orchestration, hybrid RAG pipelines, LLM optimization (vLLM, prompt caching, Speculative decoding(Eagle-3, prompt intent routing)), and enterprise-grade architecture (multi-tenant, HIPAA/SOC2-ready). M.Sc. Digital Transformation (Cybersecurity focus) | B.Sc. Computer Science 
+
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
 <!--[![ProfileViews](https://komarev.com/ghpvc/?username=nnamdingwu&color=red&style=flat)](https://komarev.com/ghpvc/?username=nnamdingwu)-->
