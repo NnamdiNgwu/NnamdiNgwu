@@ -2,7 +2,7 @@
 
 ## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, LawFind discovers the mathematical principles governing physical systems
 
-### Comparison with Existing Methods / Matsubara benchmark
+### Comparison with Existing Methods 
 
 | Method | Approach | Feynman (100 eq) | SRSD-Hard (50) | Real Data/ Pharmakonetics | Interpretable |
 |--------|----------|-------------------|----------------|-----------|---------------|
