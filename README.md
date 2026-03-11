@@ -14,9 +14,19 @@
 | PySR | Genetic programming | ~80% | — | Partial | Yes |
 | DSO | RL-guided search | ~75% | — | No | Yes |
 | Neural Deflation | Neural conserved quantities | — | — | — | No |
-| **DensPath** | **IAD + LLM agent** | **80–100%** | **40%** | **50%** | **Yes** |
+| **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **25%** | **Yes** |
 
+Done. Here's the final comparison table now in the paper:
 
+Method	Approach	Feynman (100 eq)	SRSD-Hard (50)	Real Data	Conservation Laws	Interpretable
+AI Feynman 2.0	NN decomposition + brute force	~100%	—	No	No	Yes
+PySR	Genetic programming + Pareto	~80%	~15%†	Partial	No	Yes
+DSO	RL-guided token search	~75%	~10%†	No	No	Yes
+E2E Transformer	Seq-to-seq on synthetic pairs	~70%	—	No	No	Yes
+Neural Deflation	Neural conserved quantities	—	—	—	Yes	No
+SINDy	Sparse linear regression	~40%	—	Yes	No	Yes
+LawFind	IAD + LLM agent	80–100%‡	18%	25%	Yes	Yes
+LawFind is the only method that discovers conservation laws, handles real data, AND produces interpretable expressions.
 <!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
 <!--[![ProfileViews](https://komarev.com/ghpvc/?username=nnamdingwu&color=red&style=flat)](https://komarev.com/ghpvc/?username=nnamdingwu)-->
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nnamdingwu)
