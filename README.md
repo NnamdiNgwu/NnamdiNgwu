@@ -1,5 +1,5 @@
 
-<img width="1024" height="524" alt="lawfind" src="https://github.com/user-attachments/assets/3564fdbe-8826-4e8a-94e6-da03c7b03484" />
+<img width="1024" height="450" alt="lawfind" src="https://github.com/user-attachments/assets/3564fdbe-8826-4e8a-94e6-da03c7b03484" />
 
 
 ## Building Autonomous Agent for Scientific Discovery. 
