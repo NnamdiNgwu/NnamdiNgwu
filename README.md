@@ -1,3 +1,5 @@
+
+
 ## Building Autonomous Agent for Scientific Discovery. 
 
 ## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, DensPath discovers the mathematical principles governing physical systems
@@ -13,7 +15,7 @@
 | **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
 
 
-<!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
+[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)
 <!--[![ProfileViews](https://komarev.com/ghpvc/?username=nnamdingwu&color=red&style=flat)](https://komarev.com/ghpvc/?username=nnamdingwu)-->
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nnamdingwu)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nnamdingwu/)](https://www.linkedin.com/in/nnamdingwu/)
