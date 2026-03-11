@@ -14,7 +14,7 @@
 | PySR | Genetic programming | ~80% | — | Partial | Yes |
 | DSO | RL-guided search | ~75% | — | No | Yes |
 | Neural Deflation | Neural conserved quantities | — | — | — | No |
-| **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
+| **DensPath** | **IAD + LLM agent** | **80–100%** | **40%** | **50** | **Yes** |
 
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
