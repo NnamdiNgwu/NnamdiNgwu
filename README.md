@@ -12,8 +12,7 @@
 |--------|----------|-------------------|----------------|-----------|---------------|
 | AI Feynman | NN decomposition | ~100% | — | No | Yes |
 | PySR | Genetic programming | ~80% | — | Partial | Yes |
-| DSO | RL-guided search | ~75% | — | No | Yes |![Uploading lawfind.png…]()
-
+| DSO | RL-guided search | ~75% | — | No | Yes |
 | Neural Deflation | Neural conserved quantities | — | — | — | No |
 | **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
 
