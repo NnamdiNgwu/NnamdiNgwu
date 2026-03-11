@@ -1,6 +1,9 @@
 
 ![DensPath](https://github.com/NnamdiNgwu/TXM.jpg)
 
+<img width="1024" height="1024" alt="lawfind" src="https://github.com/user-attachments/assets/3564fdbe-8826-4e8a-94e6-da03c7b03484" />
+
+
 ## Building Autonomous Agent for Scientific Discovery. 
 
 ## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, DensPath discovers the mathematical principles governing physical systems
@@ -11,7 +14,8 @@
 |--------|----------|-------------------|----------------|-----------|---------------|
 | AI Feynman | NN decomposition | ~100% | — | No | Yes |
 | PySR | Genetic programming | ~80% | — | Partial | Yes |
-| DSO | RL-guided search | ~75% | — | No | Yes |
+| DSO | RL-guided search | ~75% | — | No | Yes |![Uploading lawfind.png…]()
+
 | Neural Deflation | Neural conserved quantities | — | — | — | No |
 | **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
 
