@@ -1,4 +1,5 @@
 
+![DensPath](https://github.com/NnamdiNgwu/TXM.jpg)
 
 ## Building Autonomous Agent for Scientific Discovery. 
 
