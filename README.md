@@ -2,8 +2,16 @@
 
 ## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, LawFind discovers the mathematical principles governing physical systems
 
+### 4.3 Comparison with Existing Methods
 
-- 🤔 I’m looking for help with ...
+| Method | Approach | Feynman (100 eq) | SRSD-Hard (50) | Real Data | Interpretable |
+|--------|----------|-------------------|----------------|-----------|---------------|
+| AI Feynman | NN decomposition | ~100% | — | No | Yes |
+| PySR | Genetic programming | ~80% | — | Partial | Yes |
+| DSO | RL-guided search | ~75% | — | No | Yes |
+| Neural Deflation | Neural conserved quantities | — | — | — | No |
+| **LawFind** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
+
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
 <!--[![ProfileViews](https://komarev.com/ghpvc/?username=nnamdingwu&color=red&style=flat)](https://komarev.com/ghpvc/?username=nnamdingwu)-->
