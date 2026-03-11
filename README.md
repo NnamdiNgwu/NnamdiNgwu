@@ -1,6 +1,6 @@
 ## Building Autonomous Agent for Scientific Discovery. 
 
-## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, LawFind discovers the mathematical principles governing physical systems
+## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, DensPath discovers the mathematical principles governing physical systems
 
 ### Comparison with Existing Methods 
 
@@ -10,7 +10,7 @@
 | PySR | Genetic programming | ~80% | — | Partial | Yes |
 | DSO | RL-guided search | ~75% | — | No | Yes |
 | Neural Deflation | Neural conserved quantities | — | — | — | No |
-| **LawFind** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
+| **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **Pending** | **Yes** |
 
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
