@@ -8,7 +8,7 @@
 
 ### Comparison with Existing Methods 
 
-| Method | Approach | Feynman (100 eq) | SRSD-Hard (50) | Real Data/ Pharmakonetics | Conservation Laws | Interpretable |
+| Method | Approach | Feynman (100 eq) | SRSD-Hard (50) | Real Data/ Pharmacokinetics | Conservation Laws | Interpretable |
 |--------|----------|-------------------|----------------|-----------|---------------|-------------------|
 | AI Feynman 2.0| NN decomposition + brute force| ~100% | — | No | No | Yes |
 | PySR | Genetic programming + Pareto | ~80% | ~15%| Partial | No | Yes |
