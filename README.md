@@ -14,7 +14,7 @@
 | PySR | Genetic programming + Pareto | ~80% | ~15%| Partial | No | Yes |
 | DSO | RL-guided search | ~75% | ~10% | No| No | Yes |
 | Neural Deflation | Neural conserved quantities | — | — | — |Yes | No |
-| **DensPath** | **IAD + LLM agent** | **80–100%** | **32%** | **25%** | **Yes** | **Yes**|
+| **DensPath** | **IAD + LLM agent** | **90%** | **32%** | **50%** | **Yes** | **Yes**|
 
 
 DensPath is the only method that discovers conservation laws, handles real data, AND produces interpretable expressions.
