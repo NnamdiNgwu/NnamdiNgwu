@@ -1,8 +1,8 @@
+<img width="1000" height="240" alt="ricald-logo" src="https://github.com/user-attachments/assets/d0e05265-e7b7-43b3-9626-34c6e26f306d" />
 
-<img width="1024" height="450" alt="lawfind" src="https://github.com/user-attachments/assets/3564fdbe-8826-4e8a-94e6-da03c7b03484" />
 
 
-## Building Autonomous Agent for Scientific Discovery. 
+<!--## Building Autonomous Agent for Scientific Discovery. 
 
 ## An autonomous scientific discovery engine that discovers laws from observational data. While systems like AlphaFold3 predict structures by memorizing patterns, DensPath discovers the mathematical principles governing physical systems
 
@@ -17,7 +17,7 @@
 | **DensPath** | **IAD + LLM agent** | **90%** | **32%** | **50%** | **Yes** | **Yes**|
 
 
-DensPath is the only method that discovers conservation laws, handles real data, AND produces interpretable expressions.
+<!--DensPath is the only method that discovers conservation laws, handles real data, AND produces interpretable expressions.
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/NnamdiNgwu?label=Follow&style=social)](https://github.com/NnamdiNgwu/?tab=follow)-->
 <!--[![ProfileViews](https://komarev.com/ghpvc/?username=nnamdingwu&color=red&style=flat)](https://komarev.com/ghpvc/?username=nnamdingwu)-->
