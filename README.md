@@ -1,6 +1,6 @@
 <img width="1000" height="240" alt="ricald-logo" src="https://github.com/user-attachments/assets/d0e05265-e7b7-43b3-9626-34c6e26f306d" />
 
-
+Ricald goes beyond conventional sales intelligence by connecting, reasoning about, and acting on buying signals autonomously. It empowers sales teams and solopreneurs to operate with AI agents that perceive buying intent across market channels, CRM and Conversational data, map buying committees, learn from every interaction, and deliver actionable deal briefings intelligency with a warm intro that closes a deal. 
 
 <!--## Building Autonomous Agent for Scientific Discovery. 
 
